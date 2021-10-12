@@ -98,8 +98,8 @@
     </p>
     <div>
     
-    <b>Place:</b> <p> New Panvel  </p>    
-    
+    <b>Place:</b><p>New Panvel</p>    
+    </p>
     </body>
     </html>
     
