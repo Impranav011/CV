@@ -93,14 +93,13 @@
     I hereby declare that the information provided above is true and correct as per my knowledge and I will take full resposibility of the correctness of informtion.
     
     <br><br>
-    <b>Date:</b>30/9/2021   
+    <b>Date:</b><p>30/9/2021   
     <br>
     </p>
     <div>
     
-    <b>Place:</b><p>New Panvel</p> 
-    </p>
-    </br>
+    <b>Place:</b><p>New Panvel</p>    
+    </div>
     </body>
     </html>
     
