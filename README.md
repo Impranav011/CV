@@ -13,7 +13,7 @@
   <h2 align="center">
     CURRICULUM VITAE
   </h2>
-<img src="image.jpg" height="170px" width="150px" align="right">
+<img src="image.jpg" height="150px" width="150px" align="right">
   <p>
     <b>Name:</b> 
     Mr. Pranav Kadam
@@ -31,7 +31,7 @@
     9561110353
     <br>
     <b>Address:</b><br>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1718.984858366643!2d73.98600516818212!3d17.688256997199876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2399f6bf9a78b%3A0x8d5b2a760c9173d!2sShree%20Nidhi%20Heights!5e1!3m2!1sen!2sin!4v1634060602820!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1718.984858366643!2d73.98600516818212!3d17.688256997199876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2399f6bf9a78b%3A0x8d5b2a760c9173d!2sShree%20Nidhi%20Heights!5e1!3m2!1sen!2sin!4v1634060602820!5m2!1sen!2sin" width="500" height="250" style="border:1;" allowfullscreen="" loading="lazy"></iframe>
     <br><br><br>
     <b><u>Objective:</u></b>
     Secure a resposnisble career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.
