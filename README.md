@@ -93,7 +93,7 @@
     I hereby declare that the information provided above is true and correct as per my knowledge and I will take full resposibility of the correctness of informtion.
     
     <br><br>
-    <b>Date:</b><p>30/9/2021   
+    <b>Date:</b><p>30/9/2021</p>  
     <br>
     </p>
     <div>
