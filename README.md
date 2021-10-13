@@ -10,6 +10,7 @@
     <title>CV</title>
 </head>
 <body>
+<div>
   <h2 align="center">
     CURRICULUM VITAE
   </h2>
